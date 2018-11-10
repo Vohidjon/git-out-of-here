@@ -7,3 +7,4 @@ function moo() {alert('moo')}
 moo();
 console.log('com1')
 console.log('com2')
+console.log('com3')

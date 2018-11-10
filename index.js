@@ -8,3 +8,4 @@ moo();
 console.log('com1')
 console.log('com2')
 console.log('com3')
+console.log('com4')

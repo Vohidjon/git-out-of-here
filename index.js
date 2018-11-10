@@ -6,3 +6,4 @@ var a = 1 + 13;
 function moo() {alert('moo')}
 moo();
 console.log('com1')
+console.log('com2')
